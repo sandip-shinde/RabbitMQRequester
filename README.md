@@ -1,0 +1,2 @@
+# RabbitMQRequester
+Message Requester
